@@ -6,7 +6,6 @@ This is an application called Note Taker that can be used to write and save note
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Installation
@@ -19,13 +18,13 @@ The application can then be used in apps such as insomnia using the http link pr
 ## Usage
 When accessing the homepage, a screen will appear prompting users to click the button to 'Get Started'. 
 
-![image of landing page]()
+![image of landing page](https://github.com/eilismcmillan/note-taker/blob/main/images/readme%20screenshot%20-%20homepage.png)
 
 Once pressed, the application will redirect to the notes page. On this page, previous notes will be displayed on the left collumn, while a new note can be created on the right. Once both the title and text has content does the save button render on the top right hand of the UI. Upon saving, the new note is added to the left hand screen. Likewise, if the bin icon is pressed, that note will be deleted. 
 
-![image of notes page 1]()
+![image of notes page 1](https://github.com/eilismcmillan/note-taker/blob/main/images/readme%20screenshot%20-%20note.png)
 
-![image of notes page 2]()
+![image of notes page 2](https://github.com/eilismcmillan/note-taker/blob/main/images/readme%20screenshot%20-%20saved%20notes.png)
 
 ## License
 No License
