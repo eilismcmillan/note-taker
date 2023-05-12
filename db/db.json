@@ -1,17 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "note_id": ""
-    },
-    {
-        "title": "test title",
-        "text": "this is a test",
+        "title": "Express.js Notes",
+        "text": "express.js is a back end application",
         "note_id": "9b02aeb6-060e-449a-8080-1337d2d24622"
     },
     {
-        "title": "test title",
-        "text": "this is a test",
+        "title": "Business Notes",
+        "text": "this is a notepad for business",
         "note_id": "ba328098-c33f-4b2d-85ff-aed679cc1d5e"
     }
 ]
